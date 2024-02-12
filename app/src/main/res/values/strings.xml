@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gpa_adunooria1_Calculator</string>
+    <string name="welcome">GPA_adunooria1_Calculator</string>
+    <string name="course_1">Course-1 Gpa(1-100%)\n</string>
+    <string name="course_2">Course-2(1-100%)</string>
+    <string name="course_3">Course-3(1-100%)</string>
+    <string name="course_4">Course-4 (1-100%)</string>
+    <string name="course_5">Course-5 (1-100%)</string>
+    <string name="compute_gpa">compute gpa\n</string>
+    <string name="gpa">gpa:</string>
+</resources>
